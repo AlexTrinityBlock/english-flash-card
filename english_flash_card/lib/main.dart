@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     // 回傳 MaterialApp 物件，MaterialApp 是 Flutter Material Design 組件
     return MaterialApp(
       // 這並不是APP上方標題，而是APP的名稱
-      title: '英文單字記憶卡',
+      title: 'flash_card_game',
       // 主題配色設定
       theme: ThemeData(
         // 色彩主題設定，這邊採用藍色
