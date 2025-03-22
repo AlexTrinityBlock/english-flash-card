@@ -1,14 +1,3245 @@
 [
   {
-    "question": "Apple",
-    "answer": "蘋果"
+    "question": "Accommodate",
+    "answer": "容納"
   },
   {
-    "question": "Banana",
-    "answer": "香蕉"
+    "question": "Acquire",
+    "answer": "獲得"
   },
   {
-    "question": "Orange",
-    "answer": "橘子"
+    "question": "Adequate",
+    "answer": "足夠的"
+  },
+  {
+    "question": "Adjust",
+    "answer": "調整"
+  },
+  {
+    "question": "Administration",
+    "answer": "行政"
+  },
+  {
+    "question": "Advance",
+    "answer": "前進"
+  },
+  {
+    "question": "Agenda",
+    "answer": "議程"
+  },
+  {
+    "question": "Allocate",
+    "answer": "分配"
+  },
+   {
+    "question": "Ambitious",
+    "answer": "有野心的"
+  },
+  {
+    "question": "Annual",
+    "answer": "年度的"
+  },
+  {
+    "question": "Anticipate",
+    "answer": "預期"
+  },
+  {
+    "question": "Appoint",
+    "answer": "任命"
+  },
+  {
+    "question": "Appreciate",
+    "answer": "感謝"
+  },
+  {
+    "question": "Assemble",
+    "answer": "組裝"
+  },
+  {
+    "question": "Assess",
+    "answer": "評估"
+  },
+  {
+    "question": "Assign",
+    "answer": "分配"
+  },
+  {
+    "question": "Assist",
+    "answer": "協助"
+  },
+  {
+    "question": "Assume",
+    "answer": "假設"
+  },
+  {
+    "question": "Authorize",
+    "answer": "授權"
+  },
+  {
+    "question": "Available",
+    "answer": "可用的"
+  },
+  {
+    "question": "Awareness",
+    "answer": "意識"
+  },
+  {
+    "question": "Bargain",
+    "answer": "議價"
+  },
+  {
+    "question": "Beneficial",
+    "answer": "有益的"
+  },
+  {
+    "question": "Budget",
+    "answer": "預算"
+  },
+  {
+    "question": "Calculate",
+    "answer": "計算"
+  },
+  {
+    "question": "Capacity",
+    "answer": "容量"
+  },
+  {
+    "question": "Career",
+    "answer": "職業"
+  },
+  {
+    "question": "Cautious",
+    "answer": "謹慎的"
+  },
+  {
+    "question": "Celebrate",
+    "answer": "慶祝"
+  },
+  {
+    "question": "Certificate",
+    "answer": "證書"
+  },
+  {
+    "question": "Characteristic",
+    "answer": "特徵"
+  },
+  {
+    "question": "Charge",
+    "answer": "收費"
+  },
+  {
+    "question": "Circumstances",
+    "answer": "情況"
+  },
+  {
+    "question": "Claim",
+    "answer": "聲稱"
+  },
+  {
+    "question": "Client",
+    "answer": "客戶"
+  },
+  {
+    "question": "Collaborate",
+    "answer": "合作"
+  },
+  {
+    "question": "Colleague",
+    "answer": "同事"
+  },
+  {
+    "question": "Communicate",
+    "answer": "溝通"
+  },
+  {
+    "question": "Company",
+    "answer": "公司"
+  },
+  {
+    "question": "Compensate",
+    "answer": "賠償"
+  },
+  {
+    "question": "Competent",
+    "answer": " компетентний"
+  },
+  {
+    "question": "Competition",
+    "answer": "競爭"
+  },
+  {
+    "question": "Complain",
+    "answer": "抱怨"
+  },
+  {
+    "question": "Complete",
+    "answer": "完成"
+  },
+  {
+    "question": "Complex",
+    "answer": "複雜的"
+  },
+  {
+    "question": "Comply",
+    "answer": "遵守"
+  },
+  {
+    "question": "Comprehensive",
+    "answer": "全面的"
+  },
+  {
+    "question": "Compulsory",
+    "answer": "義務的"
+  },
+  {
+    "question": "Concern",
+    "answer": "關心"
+  },
+  {
+    "question": "Conclude",
+    "answer": "結論"
+  },
+  {
+    "question": "Conduct",
+    "answer": "行為"
+  },
+  {
+    "question": "Confirm",
+    "answer": "確認"
+  },
+  {
+    "question": "Consequence",
+    "answer": "後果"
+  },
+  {
+    "question": "Consider",
+    "answer": "考慮"
+  },
+  {
+    "question": "Consistent",
+    "answer": "一致的"
+  },
+  {
+    "question": "Constant",
+    "answer": "恆定的"
+  },
+  {
+    "question": "Construction",
+    "answer": "建設"
+  },
+  {
+    "question": "Consult",
+    "answer": "諮詢"
+  },
+  {
+    "question": "Consumer",
+    "answer": "消費者"
+  },
+  {
+    "question": "Contract",
+    "answer": "合約"
+  },
+  {
+    "question": "Contribute",
+    "answer": "貢獻"
+  },
+  {
+    "question": "Control",
+    "answer": "控制"
+  },
+  {
+    "question": "Convenient",
+    "answer": "方便的"
+  },
+  {
+    "question": "Convince",
+    "answer": "說服"
+  },
+  {
+    "question": "Corporate",
+    "answer": "公司的"
+  },
+  {
+    "question": "Cost",
+    "answer": "成本"
+  },
+  {
+    "question": "Credit",
+    "answer": "信用"
+  },
+  {
+    "question": "Criteria",
+    "answer": "標準"
+  },
+  {
+    "question": "Critical",
+    "answer": "重要的"
+  },
+  {
+    "question": "Currency",
+    "answer": "貨幣"
+  },
+  {
+     "question": "Custom",
+    "answer": "習俗"
+  },
+  {
+    "question": "Customer",
+    "answer": "顧客"
+  },
+  {
+    "question": "Damage",
+    "answer": "損害"
+  },
+  {
+    "question": "Deadline",
+    "answer": "截止日期"
+  },
+  {
+    "question": "Deal",
+    "answer": "交易"
+  },
+  {
+    "question": "Debit",
+    "answer": "借方"
+  },
+  {
+    "question": "Debt",
+    "answer": "債務"
+  },
+  {
+    "question": "Decision",
+    "answer": "決定"
+  },
+  {
+    "question": "Decrease",
+    "answer": "減少"
+  },
+  {
+    "question": "Deduct",
+    "answer": "扣除"
+  },
+  {
+    "question": "Defect",
+    "answer": "缺陷"
+  },
+  {
+     "question": "Defective",
+    "answer": "有缺陷的"
+  },
+  {
+    "question": "Delay",
+    "answer": "延遲"
+  },
+  {
+    "question": "Delegate",
+    "answer": "委派"
+  },
+  {
+    "question": "Deliver",
+    "answer": "交付"
+  },
+  {
+    "question": "Demand",
+    "answer": "需求"
+  },
+  {
+    "question": "Demanding",
+    "answer": "苛求的"
+  },
+  {
+    "question": "Demonstrate",
+    "answer": "展示"
+  },
+  {
+    "question": "Department",
+    "answer": "部門"
+  },
+  {
+    "question": "Departure",
+    "answer": "出發"
+  },
+  {
+    "question": "Deposit",
+    "answer": "存款"
+  },
+  {
+    "question": "Describe",
+    "answer": "描述"
+  },
+   {
+    "question": "Designate",
+    "answer": "指定"
+  },
+  {
+    "question": "Desperate",
+    "answer": "絕望的"
+  },
+  {
+    "question": "Destination",
+    "answer": "目的地"
+  },
+  {
+    "question": "Detail",
+    "answer": "細節"
+  },
+  {
+    "question": "Detect",
+    "answer": "察覺"
+  },
+  {
+    "question": "Determine",
+    "answer": "確定"
+  },
+  {
+    "question": "Develop",
+    "answer": "發展"
+  },
+  {
+    "question": "Device",
+    "answer": "裝置"
+  },
+  {
+    "question": "Diagnose",
+    "answer": "診斷"
+  },
+  {
+    "question": "Difference",
+    "answer": "差異"
+  },
+  {
+    "question": "Direct",
+    "answer": "直接的"
+  },
+  {
+    "question": "Director",
+    "answer": "主管"
+  },
+  {
+    "question": "Disagree",
+    "answer": "不同意"
+  },
+  {
+    "question": "Disappointing",
+    "answer": "令人失望的"
+  },
+  {
+    "question": "Discount",
+    "answer": "折扣"
+  },
+  {
+    "question": "Discuss",
+    "answer": "討論"
+  },
+  {
+    "question": "Dismiss",
+    "answer": "解僱"
+  },
+  {
+    "question": "Display",
+    "answer": "展示"
+  },
+  {
+    "question": "Dispose",
+    "answer": "處理"
+  },
+  {
+    "question": "Dispute",
+    "answer": "爭端"
+  },
+  {
+    "question": "Distribute",
+    "answer": "分配"
+  },
+  {
+    "question": "Document",
+    "answer": "文件"
+  },
+  {
+    "question": "Donate",
+    "answer": "捐贈"
+  },
+  {
+    "question": "Double",
+    "answer": "雙倍的"
+  },
+  {
+    "question": "Download",
+    "answer": "下載"
+  },
+  {
+    "question": "Downsize",
+    "answer": "縮編"
+  },
+  {
+    "question": "Draft",
+    "answer": "草稿"
+  },
+  {
+    "question": "Dramatic",
+    "answer": "戲劇性的"
+  },
+  {
+    "question": "Drastic",
+    "answer": "激烈的"
+  },
+   {
+    "question": "Duration",
+    "answer": "持續時間"
+  },
+  {
+    "question": "Earn",
+    "answer": "賺取"
+  },
+  {
+    "question": "Economical",
+    "answer": "經濟的"
+  },
+  {
+    "question": "Effective",
+    "answer": "有效的"
+  },
+  {
+    "question": "Efficient",
+    "answer": "有效率的"
+  },
+   {
+    "question": "Elderly",
+    "answer": "年長的"
+  },
+  {
+    "question": "Electrical",
+    "answer": "電的"
+  },
+  {
+    "question": "Elevator",
+    "answer": "電梯"
+  },
+  {
+    "question": "Emergency",
+    "answer": "緊急情況"
+  },
+  {
+    "question": "Employ",
+    "answer": "僱用"
+  },
+  {
+    "question": "Employee",
+    "answer": "員工"
+  },
+  {
+    "question": "Employer",
+    "answer": "雇主"
+  },
+  {
+    "question": "Employment",
+    "answer": "就業"
+  },
+  {
+    "question": "Enable",
+    "answer": "使能夠"
+  },
+  {
+    "question": "Enclose",
+    "answer": "隨附"
+  },
+  {
+    "question": "Encourage",
+    "answer": "鼓勵"
+  },
+  {
+    "question": "Endure",
+    "answer": "忍受"
+  },
+  {
+    "question": "Engineer",
+    "answer": "工程師"
+  },
+  {
+    "question": "Engineering",
+    "answer": "工程"
+  },
+  {
+    "question": "Enhance",
+    "answer": "提高"
+  },
+  {
+    "question": "Enroll",
+    "answer": "註冊"
+  },
+  {
+    "question": "Ensure",
+    "answer": "確保"
+  },
+  {
+    "question": "Enterprise",
+    "answer": "企業"
+  },
+  {
+    "question": "Enthusiastic",
+    "answer": "熱情的"
+  },
+  {
+    "question": "Entitlement",
+    "answer": "權利"
+  },
+  {
+    "question": "Entry",
+    "answer": "入口"
+  },
+  {
+    "question": "Environment",
+    "answer": "環境"
+  },
+  {
+    "question": "Equipment",
+    "answer": "設備"
+  },
+  {
+    "question": "Equivalent",
+    "answer": "同等的"
+  },
+  {
+    "question": "Essential",
+    "answer": "必要的"
+  },
+  {
+    "question": "Establish",
+    "answer": "建立"
+  },
+  {
+    "question": "Estimate",
+    "answer": "估計"
+  },
+  {
+    "question": "Evaluate",
+    "answer": "評估"
+  },
+  {
+    "question": "Evidence",
+    "answer": "證據"
+  },
+  {
+    "question": "Evolve",
+    "answer": "進化"
+  },
+  {
+    "question": "Exact",
+    "answer": "精確的"
+  },
+  {
+    "question": "Examine",
+    "answer": "檢查"
+  },
+  {
+    "question": "Excellent",
+    "answer": "優秀的"
+  },
+  {
+    "question": "Except",
+    "answer": "除了"
+  },
+  {
+    "question": "Exception",
+    "answer": "例外"
+  },
+  {
+    "question": "Exchange",
+    "answer": "交換"
+  },
+  {
+    "question": "Executive",
+    "answer": "行政人員"
+  },
+  {
+    "question": "Exhibit",
+    "answer": "展示"
+  },
+  {
+    "question": "Expand",
+    "answer": "擴大"
+  },
+  {
+    "question": "Expect",
+    "answer": "期望"
+  },
+  {
+    "question": "Expectation",
+    "answer": "期望"
+  },
+  {
+    "question": "Expense",
+    "answer": "費用"
+  },
+  {
+    "question": "Expensive",
+    "answer": "昂貴的"
+  },
+  {
+    "question": "Experience",
+    "answer": "經驗"
+  },
+  {
+    "question": "Experienced",
+    "answer": "有經驗的"
+  },
+  {
+    "question": "Experiment",
+    "answer": "實驗"
+  },
+  {
+    "question": "Expert",
+    "answer": "專家"
+  },
+  {
+    "question": "Explain",
+    "answer": "解釋"
+  },
+  {
+    "question": "Explore",
+    "answer": "探索"
+  },
+  {
+    "question": "Export",
+    "answer": "出口"
+  },
+  {
+    "question": "Express",
+    "answer": "表達"
+  },
+  {
+    "question": "Extend",
+    "answer": "延長"
+  },
+  {
+    "question": "Extension",
+    "answer": "延伸"
+  },
+  {
+    "question": "External",
+    "answer": "外部的"
+  },
+  {
+    "question": "Facility",
+    "answer": "設施"
+  },
+  {
+    "question": "Factor",
+    "answer": "因素"
+  },
+  {
+    "question": "Factory",
+    "answer": "工廠"
+  },
+  {
+    "question": "Failure",
+    "answer": "失敗"
+  },
+  {
+    "question": "Fair",
+    "answer": "公平的"
+  },
+  {
+    "question": "Fare",
+    "answer": "車資"
+  },
+  {
+    "question": "Fault",
+    "answer": "錯誤"
+  },
+  {
+    "question": "Feature",
+    "answer": "特色"
+  },
+  {
+    "question": "Fee",
+    "answer": "費用"
+  },
+  {
+    "question": "Feedback",
+    "answer": "回饋"
+  },
+  {
+    "question": "Figure",
+    "answer": "數字"
+  },
+  {
+    "question": "File",
+    "answer": "檔案"
+  },
+  {
+    "question": "Finance",
+    "answer": "財務"
+  },
+  {
+    "question": "Financial",
+    "answer": "財務的"
+  },
+  {
+    "question": "Firm",
+    "answer": "公司"
+  },
+  {
+    "question": "Fix",
+    "answer": "修理"
+  },
+  {
+    "question": "Flexible",
+    "answer": "靈活的"
+  },
+  {
+    "question": "Forecast",
+    "answer": "預測"
+  },
+  {
+    "question": "Foreign",
+    "answer": "外國的"
+  },
+  {
+    "question": "Form",
+    "answer": "表格"
+  },
+  {
+    "question": "Formal",
+    "answer": "正式的"
+  },
+  {
+    "question": "Forward",
+    "answer": "向前"
+  },
+  {
+    "question": "Foundation",
+    "answer": "基礎"
+  },
+  {
+    "question": "Framework",
+    "answer": "框架"
+  },
+  {
+    "question": "Frequent",
+    "answer": "頻繁的"
+  },
+  {
+    "question": "Frustrated",
+    "answer": "沮喪的"
+  },
+  {
+    "question": "Function",
+    "answer": "功能"
+  },
+  {
+    "question": "Fundamental",
+    "answer": "基本的"
+  },
+  {
+    "question": "Furniture",
+    "answer": "家具"
+  },
+  {
+    "question": "Gain",
+    "answer": "獲得"
+  },
+  {
+    "question": "Guarantee",
+    "answer": "保證"
+  },
+   {
+    "question": "Gather",
+    "answer": "聚集"
+  },
+  {
+    "question": "General",
+    "answer": "一般的"
+  },
+  {
+    "question": "Generate",
+    "answer": "產生"
+  },
+  {
+    "question": "Goal",
+    "answer": "目標"
+  },
+  {
+    "question": "Government",
+    "answer": "政府"
+  },
+  {
+    "question": "Grant",
+    "answer": "授予"
+  },
+  {
+     "question": "Handle",
+    "answer": "處理"
+  },
+  {
+    "question": "Headquarters",
+    "answer": "總部"
+  },
+  {
+    "question": "Hire",
+    "answer": "僱用"
+  },
+  {
+    "question": "Honor",
+    "answer": "榮譽"
+  },
+  {
+    "question": "Host",
+    "answer": "主辦"
+  },
+  {
+    "question": "Household",
+    "answer": "家庭"
+  },
+  {
+    "question": "Huge",
+    "answer": "巨大的"
+  },
+  {
+    "question": "Ideal",
+    "answer": "理想的"
+  },
+  {
+    "question": "Identify",
+    "answer": "識別"
+  },
+  {
+    "question": "Implement",
+    "answer": "實施"
+  },
+  {
+    "question": "Imply",
+    "answer": "暗示"
+  },
+  {
+    "question": "Import",
+    "answer": "進口"
+  },
+  {
+    "question": "Improve",
+    "answer": "改善"
+  },
+  {
+    "question": "Incentive",
+    "answer": "獎勵"
+  },
+  {
+    "question": "Income",
+    "answer": "收入"
+  },
+  {
+    "question": "Increase",
+    "answer": "增加"
+  },
+  {
+    "question": "Industry",
+    "answer": "產業"
+  },
+  {
+    "question": "Influence",
+    "answer": "影響"
+  },
+  {
+    "question": "Inform",
+    "answer": "通知"
+  },
+  {
+    "question": "Information",
+    "answer": "資訊"
+  },
+  {
+    "question": "Initial",
+    "answer": "最初的"
+  },
+  {
+    "question": "Initiative",
+    "answer": "倡議"
+  },
+  {
+    "question": "Inspect",
+    "answer": "檢查"
+  },
+  {
+    "question": "Install",
+    "answer": "安裝"
+  },
+  {
+    "question": "Instruction",
+    "answer": "指示"
+  },
+  {
+    "question": "Insurance",
+    "answer": "保險"
+  },
+  {
+    "question": "Integrate",
+    "answer": "整合"
+  },
+  {
+    "question": "Intellectual",
+    "answer": "智力的"
+  },
+  {
+    "question": "Intend",
+    "answer": "打算"
+  },
+  {
+    "question": "Intensive",
+    "answer": "密集的"
+  },
+  {
+    "question": "Interact",
+    "answer": "互動"
+  },
+  {
+    "question": "Interest",
+    "answer": "興趣"
+  },
+  {
+    "question": "Interim",
+    "answer": "暫時的"
+  },
+  {
+    "question": "Internal",
+    "answer": "內部的"
+  },
+  {
+    "question": "International",
+    "answer": "國際的"
+  },
+  {
+    "question": "Interview",
+    "answer": "面試"
+  },
+  {
+    "question": "Introduce",
+    "answer": "介紹"
+  },
+  {
+    "question": "Invest",
+    "answer": "投資"
+  },
+  {
+    "question": "Investment",
+    "answer": "投資"
+  },
+  {
+    "question": "Issue",
+    "answer": "議題"
+  },
+  {
+    "question": "Item",
+    "answer": "項目"
+  },
+  {
+    "question": "Job",
+    "answer": "工作"
+  },
+  {
+    "question": "Journal",
+    "answer": "期刊"
+  },
+  {
+    "question": "Journey",
+    "answer": "旅程"
+  },
+  {
+    "question": "Judge",
+    "answer": "判斷"
+  },
+  {
+    "question": "Justify",
+    "answer": "證明...是正當的"
+  },
+  {
+    "question": "Keep",
+    "answer": "保持"
+  },
+  {
+    "question": "Key",
+    "answer": "關鍵"
+  },
+  {
+    "question": "Knowledge",
+    "answer": "知識"
+  },
+  {
+    "question": "Label",
+    "answer":"標籤"
+  },
+  {
+    "question": "Labor",
+    "answer": "勞工"
+  },
+  {
+    "question": "Lack",
+    "answer": "缺乏"
+  },
+  {
+    "question": "Land",
+    "answer": "土地"
+  },
+  {
+    "question": "Landscape",
+    "answer": "風景"
+  },
+  {
+    "question": "Last",
+    "answer": "持續"
+  },
+  {
+    "question": "Latest",
+    "answer": "最新的"
+  },
+  {
+    "question": "Launch",
+    "answer": "發布"
+  },
+  {
+    "question": "Law",
+    "answer": "法律"
+  },
+  {
+    "question": "Layoff",
+    "answer": "解雇"
+  },
+  {
+    "question": "Lead",
+    "answer": "領導"
+  },
+  {
+    "question": "Leadership",
+    "answer": "領導才能"
+  },
+  {
+    "question": "Leading",
+    "answer": "領先的"
+  },
+  {
+    "question": "Leak",
+    "answer": "洩漏"
+  },
+  {
+    "question": "Leave",
+    "answer": "休假"
+  },
+  {
+    "question": "Legal",
+    "answer": "法律的"
+  },
+  {
+    "question": "Legislation",
+    "answer": "立法"
+  },
+  {
+    "question": "Legitimate",
+    "answer": "合法的"
+  },
+  {
+    "question": "Leisure",
+    "answer": "休閒"
+  },
+  {
+    "question": "Lend",
+    "answer": "借出"
+  },
+  {
+    "question": "Length",
+    "answer": "長度"
+  },
+  {
+    "question": "Less",
+    "answer": "較少的"
+  },
+  {
+    "question": "Level",
+    "answer": "水平"
+  },
+  {
+    "question": "License",
+    "answer": "執照"
+  },
+  {
+    "question": "Limit",
+    "answer": "限制"
+  },
+  {
+    "question": "Line",
+    "answer": "線"
+  },
+  {
+    "question": "Liquid",
+    "answer": "液體"
+  },
+  {
+    "question": "List",
+    "answer": "清單"
+  },
+  {
+    "question": "Loan",
+    "answer": "貸款"
+  },
+  {
+    "question": "Local",
+    "answer": "當地的"
+  },
+  {
+    "question": "Locate",
+    "answer": "位於"
+  },
+  {
+    "question": "Location",
+    "answer": "地點"
+  },
+  {
+    "question": "Logic",
+    "answer": "邏輯"
+  },
+  {
+    "question": "Long-term",
+    "answer": "長期的"
+  },
+  {
+    "question": "Loss",
+    "answer": "損失"
+  },
+  {
+    "question": "Maintain",
+    "answer": "維持"
+  },
+  {
+    "question": "Maintenance",
+    "answer": "維修"
+  },
+  {
+    "question": "Major",
+    "answer": "主要的"
+  },
+  {
+    "question": "Majority",
+    "answer": "多數"
+  },
+  {
+    "question": "Manage",
+    "answer": "管理"
+  },
+  {
+    "question": "Management",
+    "answer": "管理"
+  },
+  {
+    "question": "Manager",
+    "answer": "經理"
+  },
+  {
+    "question": "Mandatory",
+    "answer": "強制的"
+  },
+  {
+    "question": "Manufacture",
+    "answer": "製造"
+  },
+  {
+    "question": "Manufacturer",
+    "answer": "製造商"
+  },
+  {
+    "question": "Manufacturing",
+    "answer": "製造業"
+  },
+  {
+    "question": "Market",
+    "answer": "市場"
+  },
+  {
+    "question": "Marketing",
+    "answer": "行銷"
+  },
+  {
+    "question": "Material",
+    "answer": "材料"
+  },
+  {
+    "question": "Measure",
+    "answer": "測量"
+  },
+  {
+    "question": "Media",
+    "answer": "媒體"
+  },
+  {
+    "question": "Meet",
+    "answer": "滿足"
+  },
+  {
+    "question": "Meeting",
+    "answer": "會議"
+  },
+  {
+    "question": "Mention",
+    "answer": "提及"
+  },
+  {
+    "question": "Merchandise",
+    "answer": "商品"
+  },
+  {
+    "question": "Merge",
+    "answer": "合併"
+  },
+  {
+    "question": "Method",
+    "answer": "方法"
+  },
+  {
+    "question": "Migrate",
+    "answer": "遷移"
+  },
+  {
+    "question": "Mile",
+    "answer": "英里"
+  },
+  {
+    "question": "Minimize",
+    "answer": "最小化"
+  },
+  {
+    "question": "Minimum",
+    "answer": "最小的"
+  },
+  {
+    "question": "Mislead",
+    "answer": "誤導"
+  },
+  {
+    "question": "Miss",
+    "answer": "錯過"
+  },
+  {
+    "question": "Mission",
+    "answer": "任務"
+  },
+  {
+    "question": "Mistake",
+    "answer": "錯誤"
+  },
+  {
+    "question": "Modify",
+    "answer": "修改"
+  },
+  {
+    "question": "Monitor",
+    "answer": "監控"
+  },
+  {
+    "question": "Monthly",
+    "answer": "每月的"
+  },
+  {
+    "question": "Mortgage",
+    "answer": "抵押"
+  },
+  {
+    "question": "Motivate",
+    "answer": "激勵"
+  },
+  {
+    "question": "Motive",
+    "answer": "動機"
+  },
+  {
+    "question": "Move",
+    "answer": "移動"
+  },
+  {
+    "question": "Negotiate",
+    "answer": "談判"
+  },
+  {
+    "question": "Network",
+    "answer": "網絡"
+  },
+  {
+    "question": "Neutral",
+    "answer": "中立的"
+  },
+  {
+    "question": "Nevertheless",
+    "answer": "儘管如此"
+  },
+  {
+    "question": "New",
+    "answer": "新的"
+  },
+  {
+    "question": "Newly",
+    "answer": "新地"
+  },
+  {
+    "question": "Next",
+    "answer": "下一個"
+  },
+  {
+    "question": "Normally",
+    "answer": "通常"
+  },
+  {
+    "question": "Notice",
+    "answer": "注意"
+  },
+  {
+    "question": "Notify",
+    "answer": "通知"
+  },
+  {
+    "question": "Numerous",
+    "answer": "眾多的"
+  },
+  {
+    "question": "Object",
+    "answer": "反對"
+  },
+  {
+    "question": "Objective",
+    "answer": "目標"
+  },
+  {
+    "question": "Obligation",
+    "answer": "義務"
+  },
+  {
+    "question": "Observe",
+    "answer": "觀察"
+  },
+  {
+    "question": "Obtain",
+    "answer": "獲得"
+  },
+  {
+    "question": "Occupy",
+    "answer": "佔據"
+  },
+  {
+    "question": "Occur",
+    "answer": "發生"
+  },
+  {
+    "question": "Offer",
+    "answer": "提供"
+  },
+  {
+    "question": "Official",
+    "answer": "官方的"
+  },
+  {
+    "question": "Operate",
+    "answer": "操作"
+  },
+  {
+    "question": "Operation",
+    "answer": "操作"
+  },
+  {
+    "question": "Opportunity",
+    "answer": "機會"
+  },
+  {
+    "question": "Option",
+    "answer": "選項"
+  },
+  {
+    "question": "Order",
+    "answer": "訂購"
+  },
+  {
+    "question": "Organize",
+    "answer": "組織"
+  },
+  {
+    "question": "Original",
+    "answer": "原始的"
+  },
+  {
+    "question": "Other",
+    "answer": "其他的"
+  },
+  {
+    "question": "Overall",
+    "answer": "總的來說"
+  },
+  {
+    "question": "Overtime",
+    "answer": "加班"
+  },
+  {
+    "question": "Owner",
+    "answer": "所有者"
+  },
+  {
+    "question": "Package",
+    "answer": "包裹"
+  },
+  {
+    "question": "Page",
+    "answer": "頁"
+  },
+  {
+    "question": "Panel",
+    "answer": "面板"
+  },
+  {
+    "question": "Paper",
+    "answer": "紙"
+  },
+  {
+    "question": "Paragraph",
+    "answer": "段落"
+  },
+  {
+    "question": "Parcel",
+    "answer": "包裹"
+  },
+  {
+    "question": "Part",
+    "answer": "部分"
+  },
+  {
+    "question": "Particular",
+    "answer": "特定的"
+  },
+  {
+    "question": "Party",
+    "answer": "派對"
+  },
+  {
+    "question": "Pass",
+    "answer": "通過"
+  },
+  {
+    "question": "Passenger",
+    "answer": "乘客"
+  },
+  {
+    "question": "Passport",
+    "answer": "護照"
+  },
+  {
+    "question": "Past",
+    "answer": "過去"
+  },
+  {
+    "question": "Path",
+    "answer": "路徑"
+  },
+  {
+    "question": "Patient",
+    "answer": "有耐心的"
+  },
+  {
+    "question": "Pattern",
+    "answer": "模式"
+  },
+  {
+    "question": "Pay",
+    "answer": "支付"
+  },
+  {
+    "question": "Payment",
+    "answer": "支付"
+  },
+  {
+    "question": "Penalty",
+    "answer": "罰款"
+  },
+  {
+    "question": "Pending",
+    "answer": "待定的"
+  },
+  {
+    "question": "People",
+    "answer": "人"
+  },
+  {
+    "question": "Percent",
+    "answer": "百分比"
+  },
+  {
+    "question": "Percentage",
+    "answer": "百分比"
+  },
+  {
+    "question": "Perform",
+    "answer": "執行"
+  },
+  {
+    "question": "Performance",
+    "answer": "性能"
+  },
+  {
+    "question": "Period",
+    "answer": "期間"
+  },
+  {
+    "question": "Permit",
+    "answer": "允許"
+  },
+  {
+    "question": "Person",
+    "answer": "人"
+  },
+  {
+    "question": "Personal",
+    "answer": "個人的"
+  },
+  {
+    "question": "Personnel",
+    "answer": "人事"
+  },
+  {
+    "question": "Persuade",
+    "answer": "說服"
+  },
+  {
+    "question": "Phase",
+    "answer": "階段"
+  },
+  {
+    "question": "Phone",
+    "answer": "電話"
+  },
+  {
+    "question": "Photograph",
+    "answer": "照片"
+  },
+  {
+    "question": "Phrase",
+    "answer": "片語"
+  },
+  {
+    "question": "Physical",
+    "answer": "身體的"
+  },
+  {
+    "question": "Pick",
+    "answer": "挑選"
+  },
+  {
+    "question": "Piece",
+    "answer": "塊"
+  },
+  {
+    "question": "Place",
+    "answer": "地點"
+  },
+  {
+    "question": "Plan",
+    "answer": "計劃"
+  },
+  {
+    "question": "Plant",
+    "answer": "植物"
+  },
+  {
+    "question": "Platform",
+    "answer": "平台"
+  },
+  {
+    "question": "Policy",
+    "answer": "政策"
+  },
+  {
+    "question": "Position",
+    "answer": "位置"
+  },
+  {
+    "question": "Possess",
+    "answer": "擁有"
+  },
+  {
+    "question": "Possibility",
+    "answer": "可能性"
+  },
+  {
+    "question": "Possible",
+    "answer": "可能的"
+  },
+  {
+    "question": "Post",
+    "answer": "張貼"
+  },
+  {
+    "question": "Postpone",
+    "answer": "延後"
+  },
+  {
+    "question": "Potential",
+    "answer": "潛在的"
+  },
+  {
+    "question": "Power",
+    "answer": "力量"
+  },
+  {
+    "question": "Practice",
+    "answer": "練習"
+  },
+  {
+    "question": "Praise",
+    "answer": "讚揚"
+  },
+  {
+    "question": "Predict",
+    "answer": "預測"
+  },
+  {
+    "question": "Prefer",
+    "answer": "偏好"
+  },
+  {
+    "question": "Preference",
+    "answer": "偏好"
+  },
+  {
+    "question": "Prepare",
+    "answer": "準備"
+  },
+  {
+    "question": "Presence",
+    "answer": "出席"
+  },
+  {
+    "question": "Present",
+    "answer": "呈現"
+  },
+  {
+    "question": "Presentation",
+    "answer": "簡報"
+  },
+  {
+    "question": "Preserve",
+    "answer": "保存"
+  },
+  {
+    "question": "President",
+    "answer": "總統"
+  },
+  {
+    "question": "Press",
+    "answer": "按壓"
+  },
+  {
+    "question": "Pressure",
+    "answer": "壓力"
+  },
+  {
+    "question": "Previous",
+    "answer": "先前的"
+  },
+  {
+    "question": "Price",
+    "answer": "價格"
+  },
+  {
+    "question": "Primary",
+    "answer": "主要的"
+  },
+  {
+    "question": "Principal",
+    "answer": "主要的"
+  },
+  {
+    "question": "Principle",
+    "answer": "原則"
+  },
+  {
+    "question": "Prior",
+    "answer": "先前的"
+  },
+  {
+    "question": "Priority",
+    "answer": "優先"
+  },
+  {
+    "question": "Private",
+    "answer": "私人的"
+  },
+  {
+    "question": "Prize",
+    "answer": "獎品"
+  },
+  {
+    "question": "Problem",
+    "answer": "問題"
+  },
+  {
+    "question": "Procedure",
+    "answer": "程序"
+  },
+  {
+    "question": "Process",
+    "answer": "過程"
+  },
+  {
+    "question": "Produce",
+    "answer": "生產"
+  },
+  {
+    "question": "Product",
+    "answer": "產品"
+  },
+  {
+    "question": "Production",
+    "answer": "生產"
+  },
+  {
+    "question": "Profession",
+    "answer": "職業"
+  },
+  {
+    "question": "Professional",
+    "answer": "專業的"
+  },
+  {
+    "question": "Profit",
+    "answer": "利潤"
+  },
+  {
+    "question": "Program",
+    "answer": "節目"
+  },
+  {
+    "question": "Project",
+    "answer": "項目"
+  },
+  {
+    "question": "Promise",
+    "answer": "承諾"
+  },
+  {
+    "question": "Promote",
+    "answer": "促進"
+  },
+  {
+    "question": "Promotion",
+    "answer": "促銷"
+  },
+  {
+    "question": "Proposal",
+    "answer": "提案"
+  },
+  {
+    "question": "Propose",
+    "answer": "提議"
+  },
+  {
+    "question": "Prospect",
+    "answer": "前景"
+  },
+  {
+    "question": "Provide",
+    "answer": "提供"
+  },
+  {
+    "question": "Public",
+    "answer": "公開的"
+  },
+  {
+    "question": "Publish",
+    "answer": "出版"
+  },
+  {
+    "question": "Purchase",
+    "answer": "購買"
+  },
+  {
+    "question": "Purpose",
+    "answer": "目的"
+  },
+  {
+    "question": "Pursue",
+    "answer": "追求"
+  },
+  {
+    "question": "Quality",
+    "answer": "品質"
+  },
+  {
+    "question": "Quantity",
+    "answer": "數量"
+  },
+  {
+    "question": "Quarter",
+    "answer": "季度"
+  },
+  {
+    "question": "Question",
+    "answer": "問題"
+  },
+  {
+    "question": "Quite",
+    "answer": "相當"
+  },
+  {
+    "question": "Raise",
+    "answer": "提高"
+  },
+  {
+    "question": "Range",
+    "answer": "範圍"
+  },
+  {
+    "question": "Rate",
+    "answer": "比率"
+  },
+  {
+    "question": "Rather",
+    "answer": "寧願"
+  },
+  {
+    "question": "Reach",
+    "answer": "達到"
+  },
+  {
+    "question": "Read",
+    "answer": "讀"
+  },
+  {
+    "question": "Ready",
+    "answer": "準備好的"
+  },
+  {
+    "question": "Real",
+    "answer": "真的"
+  },
+  {
+    "question": "Realize",
+    "answer": "實現"
+  },
+  {
+    "question": "Reason",
+    "answer": "原因"
+  },
+  {
+    "question": "Recall",
+    "answer": "回想"
+  },
+  {
+    "question": "Receive",
+    "answer": "收到"
+  },
+  {
+    "question": "Recent",
+    "answer": "最近的"
+  },
+  {
+    "question": "Recently",
+    "answer": "最近"
+  },
+  {
+    "question": "Reception",
+    "answer": "接待"
+  },
+  {
+    "question": "Recognize",
+    "answer": "認出"
+  },
+  {
+    "question": "Recommend",
+    "answer": "推薦"
+  },
+  {
+    "question": "Record",
+    "answer": "記錄"
+  },
+  {
+    "question": "Reduce",
+    "answer": "減少"
+  },
+  {
+    "question": "Refer",
+    "answer": "參考"
+  },
+  {
+    "question": "Reference",
+    "answer": "參考"
+  },
+  {
+    "question": "Reflect",
+    "answer": "反映"
+  },
+  {
+    "question": "Refund",
+    "answer": "退款"
+  },
+  {
+    "question": "Refuse",
+    "answer": "拒絕"
+  },
+  {
+    "question": "Regarding",
+    "answer": "關於"
+  },
+  {
+    "question": "Register",
+    "answer": "註冊"
+  },
+  {
+    "question": "Regret",
+    "answer": "後悔"
+  },
+  {
+    "question": "Regular",
+    "answer": "規律的"
+  },
+  {
+    "question": "Regulate",
+    "answer": " регулировать"
+  },
+  {
+    "question": "Regulation",
+    "answer": "規定"
+  },
+  {
+    "question": "Reinforce",
+    "answer": "加強"
+  },
+  {
+    "question": "Reject",
+    "answer": "拒絕"
+  },
+  {
+    "question": "Relate",
+    "answer": "相關"
+  },
+  {
+    "question": "Relative",
+    "answer": "相對的"
+  },
+  {
+    "question": "Release",
+    "answer": "發布"
+  },
+  {
+    "question": "Relevant",
+    "answer": "相關的"
+  },
+  {
+    "question": "Reliable",
+    "answer": "可靠的"
+  },
+  {
+    "question": "Relieve",
+    "answer": "減輕"
+  },
+  {
+    "question": "Relocation",
+    "answer": "遷移"
+  },
+  {
+    "question": "Remain",
+    "answer": "保持"
+  },
+  {
+    "question": "Remark",
+    "answer": "評論"
+  },
+  {
+    "question": "Remember",
+    "answer": "記得"
+  },
+  {
+    "question": "Remind",
+    "answer": "提醒"
+  },
+  {
+    "question": "Remove",
+    "answer": "移除"
+  },
+  {
+    "question": "Rent",
+    "answer": "租"
+  },
+  {
+    "question": "Repair",
+    "answer": "修理"
+  },
+  {
+    "question": "Repeat",
+    "answer": "重複"
+  },
+  {
+    "question": "Replace",
+    "answer": "取代"
+  },
+  {
+    "question": "Reply",
+    "answer": "回覆"
+  },
+  {
+    "question": "Report",
+    "answer": "報告"
+  },
+  {
+    "question": "Represent",
+    "answer": "代表"
+  },
+  {
+    "question": "Request",
+    "answer": "要求"
+  },
+  {
+    "question": "Require",
+    "answer": "需要"
+  },
+  {
+    "question": "Requirement",
+    "answer": "要求"
+  },
+  {
+    "question": "Research",
+    "answer": "研究"
+  },
+  {
+    "question": "Resign",
+    "answer": "辭職"
+  },
+  {
+    "question": "Resist",
+    "answer": "抵抗"
+  },
+  {
+    "question": "Resolve",
+    "answer": "解決"
+  },
+  {
+    "question": "Resource",
+    "answer": "資源"
+  },
+  {
+    "question": "Respond",
+    "answer": "回應"
+  },
+  {
+    "question": "Response",
+    "answer": "回應"
+  },
+  {
+    "question": "Responsible",
+    "answer": "負責的"
+  },
+  {
+    "question": "Rest",
+    "answer": "休息"
+  },
+  {
+    "question": "Restaurant",
+    "answer": "餐廳"
+  },
+  {
+    "question": "Restrict",
+    "answer": "限制"
+  },
+  {
+    "question": "Result",
+    "answer": "結果"
+  },
+  {
+    "question": "Retail",
+    "answer": "零售"
+  },
+  {
+    "question": "Retain",
+    "answer": "保留"
+  },
+  {
+    "question": "Return","answer": "返回"
+  },
+  {
+    "question": "Review",
+    "answer": "複習"
+  },
+  {
+    "question": "Revise",
+    "answer": "修改"
+  },
+  {
+    "question": "Risk",
+    "answer": "風險"
+  },
+  {
+    "question": "Role",
+    "answer": "角色"
+  },
+  {
+    "question": "Room",
+    "answer": "房間"
+  },
+  {
+    "question": "Route",
+    "answer": "路線"
+  },
+  {
+    "question": "Routine",
+    "answer": "例行公事"
+  },
+  {
+    "question": "Rule",
+    "answer": "規則"
+  },
+  {
+    "question": "Run",
+    "answer": "跑"
+  },
+  {
+    "question": "Sale",
+    "answer": "銷售"
+  },
+  {
+    "question": "Salary",
+    "answer": "薪水"
+  },
+  {
+    "question": "Sample",
+    "answer": "樣本"
+  },
+  {
+    "question": "Save",
+    "answer": "儲存"
+  },
+  {
+    "question": "Schedule",
+    "answer": "行程"
+  },
+  {
+    "question": "Scheme",
+    "answer": "計劃"
+  },
+  {
+    "question": "Search",
+    "answer": "搜尋"
+  },
+  {
+    "question": "Season",
+    "answer": "季節"
+  },
+  {
+    "question": "Seat",
+    "answer": "座位"
+  },
+  {
+    "question": "Second",
+    "answer": "第二"
+  },
+  {
+    "question": "Section",
+    "answer": "部分"
+  },
+  {
+    "question": "Security",
+    "answer": "安全"
+  },
+  {
+    "question": "Seek",
+    "answer": "尋求"
+  },
+  {
+    "question": "Select",
+    "answer": "選擇"
+  },
+  {
+    "question": "Selection",
+    "answer": "選擇"
+  },
+  {
+    "question": "Sell",
+    "answer": "賣"
+  },
+  {
+    "question": "Send",
+    "answer": "寄送"
+  },
+  {
+    "question": "Senior",
+    "answer": "資深的"
+  },
+  {
+    "question": "Sense",
+    "answer": "感覺"
+  },
+  {
+    "question": "Sensitive",
+    "answer": "敏感的"
+  },
+  {
+    "question": "Separate",
+    "answer": "分開的"
+  },
+  {
+    "question": "Series",
+    "answer": "系列"
+  },
+  {
+    "question": "Serious",
+    "answer": "嚴重的"
+  },
+  {
+    "question": "Serve",
+    "answer": "服務"
+  },
+  {
+    "question": "Service",
+    "answer": "服務"
+  },
+  {
+    "question": "Session",
+    "answer": "會議"
+  },
+  {
+    "question": "Set",
+    "answer": "設定"
+  },
+  {
+    "question": "Settle",
+    "answer": "解決"
+  },
+  {
+    "question": "Severe",
+    "answer": "嚴重的"
+  },
+  {
+    "question": "Share",
+    "answer": "分享"
+  },
+  {
+    "question": "Sheet",
+    "answer": "表格"
+  },
+  {
+    "question": "Ship",
+    "answer": "運送"
+  },
+  {
+    "question": "Short",
+    "answer": "短的"
+  },
+  {
+    "question": "Shortage",
+    "answer": "短缺"
+  },
+  {
+    "question": "Should",
+    "answer": "應該"
+  },
+  {
+    "question": "Show",
+    "answer": "展示"
+  },
+  {
+    "question": "Sign",
+    "answer": "簽名"
+  },
+  {
+    "question": "Signal",
+    "answer": "信號"
+  },
+  {
+    "question": "Significant",
+    "answer": "重要的"
+  },
+  {
+    "question": "Similar",
+    "answer": "相似的"
+  },
+  {
+    "question": "Simple",
+    "answer": "簡單的"
+  },
+  {
+    "question": "Since",
+    "answer": "自從"
+  },
+  {
+    "question": "Situation",
+    "answer": "情況"
+  },
+  {
+    "question": "Size",
+    "answer": "大小"
+  },
+  {
+    "question": "Skill",
+    "answer": "技能"
+  },
+  {
+    "question": "Slight",
+    "answer": "輕微的"
+  },
+  {
+    "question": "Slip",
+    "answer": "滑倒"
+  },
+  {
+    "question": "Slow",
+    "answer": "慢的"
+  },
+  {
+    "question": "Solution",
+    "answer": "解決方案"
+  },
+  {
+    "question": "Solve",
+    "answer": "解決"
+  },
+  {
+    "question": "Some",
+    "answer": "一些"
+  },
+  {
+    "question": "Someone",
+    "answer": "某人"
+  },
+  {
+    "question": "Something",
+    "answer": "某事"
+  },
+  {
+    "question": "Sometimes",
+    "answer": "有時"
+  },
+  {
+    "question": "Somewhere",
+    "answer": "某處"
+  },
+  {
+    "question": "Sort",
+    "answer": "排序"
+  },
+  {
+    "question": "Sound",
+    "answer": "聲音"
+  },
+  {
+    "question": "Source",
+    "answer": "來源"
+  },
+  {
+    "question": "Space",
+    "answer": "空間"
+  },
+  {
+    "question": "Speak",
+    "answer": "說"
+  },
+  {
+    "question": "Special",
+    "answer": "特別的"
+  },
+  {
+    "question": "Specific",
+    "answer": "特定的"
+  },
+  {
+    "question": "Specify",
+    "answer": "指定"
+  },
+  {
+    "question": "Speed",
+    "answer": "速度"
+  },
+  {
+    "question": "Spend",
+    "answer": "花費"
+  },
+  {
+    "question": "Staff",
+    "answer": "員工"
+  },
+  {
+    "question": "Stage",
+    "answer": "階段"
+  },
+  {
+    "question": "Standard",
+    "answer": "標準"
+  },
+  {
+    "question": "Start",
+    "answer": "開始"
+  },
+  {
+    "question": "State",
+    "answer": "狀態"
+  },
+  {
+    "question": "Statement",
+    "answer": "聲明"
+  },
+  {
+    "question": "Station",
+    "answer": "車站"
+  },
+  {
+    "question": "Status",
+    "answer": "狀態"
+  },
+  {
+    "question": "Stay",
+    "answer": "停留"
+  },
+  {
+    "question": "Step",
+    "answer": "步驟"
+  },
+  {
+    "question": "Stick",
+    "answer": "黏住"
+  },
+  {
+    "question": "Still",
+    "answer": "仍然"
+  },
+  {
+    "question": "Stock",
+    "answer": "庫存"
+  },
+  {
+    "question": "Stop",
+    "answer": "停止"
+  },
+  {
+    "question": "Store",
+    "answer": "商店"
+  },
+  {
+    "question": "Story",
+    "answer": "故事"
+  },
+  {
+    "question": "Strategy",
+    "answer": "策略"
+  },
+  {
+    "question": "Stress",
+    "answer": "壓力"
+  },
+  {
+    "question": "Strict",
+    "answer": "嚴格的"
+  },
+  {
+    "question": "Structure",
+    "answer": "結構"
+  },
+  {
+    "question": "Student",
+    "answer": "學生"
+  },
+  {
+    "question": "Study",
+    "answer": "學習"
+  },
+  {
+    "question": "Style",
+    "answer": "風格"
+  },
+  {
+    "question": "Subject",
+    "answer": "主題"
+  },
+  {
+    "question": "Submit",
+    "answer": "提交"
+  },
+  {
+    "question": "Subsequent",
+    "answer": "隨後的"
+  },
+  {
+    "question": "Subsidy",
+    "answer": "補助金"
+  },
+  {
+    "question": "Substance",
+    "answer": "物質"
+  },
+  {
+    "question": "Substantial",
+    "answer": "大量的"
+  },
+  {
+    "question": "Succeed",
+    "answer": "成功"
+  },
+  {
+    "question": "Success",
+    "answer": "成功"
+  },
+  {
+    "question": "Successful",
+    "answer": "成功的"
+  },
+  {
+    "question": "Such",
+    "answer": "這樣的"
+  },
+  {
+    "question": "Sudden",
+    "answer": "突然的"
+  },
+  {
+    "question": "Suddenly",
+    "answer": "突然地"
+  },
+  {
+    "question": "Suggest",
+    "answer": "建議"
+  },
+  {
+    "question": "Suggestion",
+    "answer": "建議"
+  },
+  {
+    "question": "Suit",
+    "answer": "適合"
+  },
+  {
+    "question": "Suitable",
+    "answer": "適合的"
+  },
+  {
+    "question": "Sum",
+    "answer": "總和"
+  },
+  {
+    "question": "Summarize",
+    "answer": "總結"
+  },
+  {
+    "question": "Summary",
+    "answer": "總結"
+  },
+  {
+    "question": "Supply",
+    "answer": "供應"
+  },
+  {
+    "question": "Support",
+    "answer": "支持"
+  },
+  {
+    "question": "Suppose",
+    "answer": "假設"
+  },
+  {
+    "question": "Sure",
+    "answer": "確定的"
+  },
+  {
+    "question": "Surface",
+    "answer": "表面"
+  },
+  {
+    "question": "Surprise",
+    "answer": "驚訝"
+  },
+  {
+    "question": "Surround",
+    "answer": "包圍"
+  },
+  {
+    "question": "Survey",
+    "answer": "調查"
+  },
+  {
+    "question": "Switch",
+    "answer": "開關"
+  },
+  {
+    "question": "System",
+    "answer": "系統"
+  },
+  {
+    "question": "Table",
+    "answer": "表格"
+  },
+  {
+    "question": "Take",
+    "answer": "拿"
+  },
+  {
+    "question": "Talent",
+    "answer": "天賦"
+  },
+  {
+    "question": "Talk",
+    "answer": "說話"
+  },
+  {
+    "question": "Task",
+    "answer": "任務"
+  },
+  {
+    "question": "Tax",
+    "answer": "稅"
+  },
+  {
+    "question": "Team",
+    "answer": "團隊"
+  },
+  {
+    "question": "Technical",
+    "answer": "技術的"
+  },
+  {
+    "question": "Technique",
+    "answer": "技術"
+  },
+  {
+    "question": "Technology",
+    "answer": "科技"
+  },
+  {
+    "question": "Telephone",
+    "answer": "電話"
+  },
+  {
+    "question": "Temporary",
+    "answer": "臨時的"
+  },
+  {
+    "question": "Ten",
+    "answer": "十"
+  },
+  {
+    "question": "Tend",
+    "answer": "傾向於"
+  },
+  {
+    "question": "Term",
+    "answer": "術語"
+  },
+  {
+    "question": "Terminal",
+    "answer": "航廈"
+  },
+  {
+    "question": "Test",
+    "answer": "測試"
+  },
+  {
+    "question": "Text",
+    "answer": "文本"
+  },
+  {
+    "question": "Thank",
+    "answer": "謝謝"
+  },
+  {
+    "question": "That",
+    "answer": "那"
+  },
+  {
+    "question": "The",
+    "answer": "這"
+  },
+  {
+    "question": "Their",
+    "answer": "他們的"
+  },
+  {
+    "question": "Them",
+    "answer": "他們"
+  },
+  {
+    "question": "Then",
+    "answer": "然後"
+  },
+  {
+    "question": "There",
+    "answer": "那裡"
+  },
+  {
+    "question": "Therefore",
+    "answer": "因此"
+  },
+  {
+    "question": "These",
+    "answer": "這些"
+  },
+  {
+    "question": "They",
+    "answer": "他們"
+  },
+  {
+    "question": "Thing",
+    "answer": "事情"
+  },
+  {
+    "question": "Think",
+    "answer": "想"
+  },
+  {
+    "question": "Third",
+    "answer": "第三"
+  },
+  {
+    "question": "This",
+    "answer": "這個"
+  },
+  {
+    "question": "Those",
+    "answer": "那些"
+  },
+  {
+    "question": "Though",
+    "answer": "雖然"
+  },
+  {
+    "question": "Thought",
+    "answer": "想法"
+  },
+  {
+    "question": "Thousand",
+    "answer": "千"
+  },
+  {
+    "question": "Threat",
+    "answer": "威脅"
+  },
+  {
+    "question": "Through",
+    "answer": "通過"
+  },
+  {
+    "question": "Throughout",
+    "answer": "貫穿"
+  },
+  {
+    "question": "Thus",
+    "answer": "因此"
+  },
+  {
+    "question": "Time",
+    "answer": "時間"
+  },
+  {
+    "question": "Title",
+    "answer": "標題"
+  },
+  {
+    "question": "Today",
+    "answer": "今天"
+  },
+  {
+    "question": "Together",
+    "answer": "一起"
+  },
+  {
+    "question": "Tomorrow",
+    "answer": "明天"
+  },
+  {
+    "question": "Tonight",
+    "answer": "今晚"
+  },
+  {
+    "question": "Too",
+    "answer": "也"
+  },
+  {
+    "question": "Tool",
+    "answer": "工具"
+  },
+  {
+    "question": "Top",
+    "answer": "頂部"
+  },
+  {
+    "question": "Total",
+    "answer": "總計"
+  },
+  {
+    "question": "Touch",
+    "answer": "觸摸"
+  },
+  {
+    "question": "Tour",
+    "answer": "旅行"
+  },
+  {
+    "question": "Toward",
+    "answer": "朝向"
+  },
+  {
+    "question": "Town",
+    "answer": "城鎮"
+  },
+  {
+    "question": "Trade",
+    "answer": "貿易"
+  },
+  {
+    "question": "Traditional",
+    "answer": "傳統的"
+  },
+  {
+    "question": "Traffic",
+    "answer": "交通"
+  },
+  {
+    "question": "Train",
+    "answer": "火車"
+  },
+  {
+    "question": "Training",
+    "answer": "訓練"
+  },
+  {
+    "question": "Transfer",
+    "answer": "轉移"
+  },
+  {
+    "question": "Transform",
+    "answer": "轉變"
+  },
+  {
+    "question": "Transition",
+    "answer": "轉變"
+  },
+  {
+    "question": "Translate",
+    "answer": "翻譯"
+  },
+  {
+    "question": "Transportation",
+    "answer": "運輸"
+  },
+  {
+    "question": "Travel",
+    "answer": "旅行"
+  },
+  {
+    "question": "Treat",
+    "answer": "對待"
+  },
+  {
+    "question": "Treatment",
+    "answer": "治療"
+  },
+  {
+    "question": "Tree",
+    "answer": "樹"
+  },
+  {
+    "question": "Trend",
+    "answer": "趨勢"
+  },
+  {
+    "question": "Trial",
+    "answer": "審判"
+  },
+  {
+    "question": "Trip",
+    "answer": "旅行"
+  },
+  {
+    "question": "Trouble",
+    "answer": "麻煩"
+  },
+  {
+    "question": "True",
+    "answer": "真的"
+  },
+  {
+    "question": "Trust",
+    "answer": "信任"
+  },
+  {
+    "question": "Truth",
+    "answer": "真相"
+  },
+  {
+    "question": "Try",
+    "answer": "嘗試"
+  },
+  {
+    "question": "Turn",
+    "answer": "轉"
+  },
+  {
+    "question": "Type",
+    "answer": "類型"
+  },
+  {
+    "question": "Typical",
+    "answer": "典型的"
+  },
+  {
+    "question": "Under",
+    "answer": "在...之下"
+  },
+  {
+    "question": "Understand",
+    "answer": "理解"
+  },
+  {
+    "question": "Understanding",
+    "answer": "理解"
+  },
+  {
+    "question": "Undertake",
+    "answer": "承擔"
+  },
+  {
+    "question": "Unemployment",
+    "answer": "失業"
+  },
+  {
+    "question": "Unexpected",
+    "answer": "意想不到的"
+  },
+  {
+    "question": "Unique",
+    "answer": "獨特的"
+  },
+  {
+    "question": "Unit",
+    "answer": "單位"
+  },
+  {
+    "question": "Universal",
+    "answer": "普遍的"
+  },
+  {
+    "question": "University",
+    "answer": "大學"
+  },
+  {
+    "question": "Unless",
+    "answer": "除非"
+  },
+  {
+    "question": "Unlike",
+    "answer": "不像"
+  },
+  {
+    "question": "Unlikely",
+    "answer": "不太可能的"
+  },
+  {
+    "question": "Until",
+    "answer": "直到"
+  },
+  {
+    "question": "Up",
+    "answer": "向上"
+  },
+  {
+    "question": "Update",
+    "answer": "更新"
+  },
+  {
+    "question": "Upon",
+    "answer": "在...之上"
+  },
+  {
+    "question": "Upper",
+    "answer": "上面的"
+  },
+  {
+    "question": "Urgent",
+    "answer": "緊急的"
+  },
+  {
+    "question": "Us",
+    "answer": "我們"
+  },
+  {
+    "question": "Use",
+    "answer": "使用"
+  },
+  {
+    "question": "Used",
+    "answer": "用過的"
+  },
+  {
+    "question": "Useful",
+    "answer": "有用的"
+  },
+  {
+    "question": "User",
+    "answer": "用戶"
+  },
+  {
+    "question": "Usually",
+    "answer": "通常"
+  },
+  {
+    "question": "Utility",
+    "answer": "效用"
+  },
+  {
+    "question": "Vacation",
+    "answer": "假期"
+  },
+  {
+    "question": "Valid",
+    "answer": "有效的"
+  },
+  {
+    "question": "Value",
+    "answer": "價值"
+  },
+  {
+    "question": "Various",
+    "answer": "各種的"
+  },
+  {
+    "question": "Variety",
+    "answer": "多樣性"
+  },
+  {
+    "question": "Vehicle",
+    "answer": "車輛"
+  },
+  {
+    "question": "Version",
+    "answer": "版本"
+  },
+  {
+    "question": "Very",
+    "answer": "非常"
+  },
+  {
+    "question": "Via",
+    "answer": "通過"
+  },
+  {
+    "question": "View",
+    "answer": "觀點"
+  },
+  {
+    "question": "Village",
+    "answer": "村莊"
+  },
+  {
+    "question": "Visit",
+    "answer": "拜訪"
+  },
+  {
+    "question": "Visitor",
+    "answer": "訪客"
+  },
+  {
+    "question": "Vital",
+    "answer": "重要的"
+  },
+  {
+    "question": "Voice",
+    "answer": "聲音"
+  },
+  {
+    "question": "Volume",
+    "answer": "音量"
+  },
+  {
+    "question": "Volunteer",
+    "answer": "自願者"
+  },
+  {
+    "question": "Vote",
+    "answer": "投票"
+  },
+  {
+    "question": "Wait",
+    "answer": "等待"
+  },
+  {
+    "question": "Walk",
+    "answer": "走"
+  },
+  {
+    "question": "Wall",
+    "answer": "牆"
+  },
+  {
+    "question": "Want",
+    "answer": "想要"
+  },
+  {
+    "question": "War",
+    "answer": "戰爭"
+  },
+  {
+    "question": "Warn",
+    "answer": "警告"
+  },
+  {
+    "question": "Wash",
+    "answer": "洗"
+  },
+  {
+    "question": "Waste",
+    "answer": "浪費"
+  },
+  {
+    "question": "Watch",
+    "answer": "觀看"
+  },
+  {
+    "question": "Water",
+    "answer": "水"
+  },
+  {
+    "question": "Way",
+    "answer": "方法"
+  },
+  {
+    "question": "We",
+    "answer": "我們"
+  },
+  {
+    "question": "Weak",
+    "answer": "虛弱的"
+  },
+  {
+    "question": "Week",
+    "answer": "週"
+  },
+  {
+    "question": "Weekly",
+    "answer": "每週的"
+  },
+  {
+    "question": "Weight",
+    "answer": "重量"
+  },
+  {
+    "question": "Welcome",
+    "answer": "歡迎"
+  },
+  {
+    "question": "Well",
+    "answer": "好"
+  },
+  {
+    "question": "West",
+    "answer": "西方"
+  },
+  {
+    "question": "What",
+    "answer": "什麼"
+  },
+  {
+    "question": "When",
+    "answer": "當"
+  },
+  {
+    "question": "Where",
+    "answer": "哪裡"
+  },
+  {
+    "question": "Whether",
+    "answer": "是否"
   }
 ]

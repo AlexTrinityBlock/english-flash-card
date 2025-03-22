@@ -26,7 +26,7 @@ class _FlashCardGameState extends State<FlashCardGame> {
     try {
       final cards = await _service.loadFlashCards();
       setState(() {
-        _flashCards = cards;
+        _flashCards = cards..shuffle();
         _isLoading = false;
       });
     } catch (e) {
